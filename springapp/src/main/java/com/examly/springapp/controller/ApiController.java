@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.examly.springapp.model.ChildBean;
 
 @RestController
-@RequestMapping("/demoo")
+@RequestMapping("/demo")
 public class ApiController {
     private final ChildBean childBean;
 
